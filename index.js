@@ -7,9 +7,9 @@ morgan.token('body', (req) => {
     return JSON.stringify(req.body)
 })
 
+app.use(express.static('build'))
 app.use(express.json())
 app.use(morgan("tiny"))
-app.use(express.static('build'))
 app.use(morgan(':body'))
 app.use(cors())
 
