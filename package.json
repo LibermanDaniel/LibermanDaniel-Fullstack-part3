@@ -17,5 +17,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LibermanDaniel/LibermanDaniel-Fullstack-part3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LibermanDaniel/LibermanDaniel-Fullstack-part3/issues"
+  },
+  "homepage": "https://github.com/LibermanDaniel/LibermanDaniel-Fullstack-part3#readme"
 }
