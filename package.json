@@ -27,5 +27,6 @@
   "bugs": {
     "url": "https://github.com/LibermanDaniel/LibermanDaniel-Fullstack-part3/issues"
   },
-  "homepage": "https://github.com/LibermanDaniel/LibermanDaniel-Fullstack-part3#readme"
+  "homepage": "https://github.com/LibermanDaniel/LibermanDaniel-Fullstack-part3#readme",
+  "heroku-run-build-script": true
 }
